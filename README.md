@@ -25,7 +25,7 @@ Output: "Google Is A Search Engine"
 
 ## String02
 
-  A str of several words is given. All letters are lowercase. Return all letters to uppercase.
+ Given a string of several words, with all letters in lowercase, return the string with all letters converted to uppercase.
 
 **Example 1:**
 
@@ -41,7 +41,7 @@ Output: "APPLE IS A FRUIT"
 
 ## String03
 
-  A str of several words is given. All letters are capitalized. Return all letters in lower case.
+  A string of multiple words is provided. The letters in the string are all capitalized. Convert all of the letters in the string to lowercase and return the resulting string.
 
 **Example 1:**
 
@@ -57,7 +57,7 @@ Output: "iphone is a mobile"
 
 ## String04
 
-  A variable of type str is given. make sure all letters are lowercase.
+  A variable of type str is given. Check that a string variable contains only lowercase letters.
 
 **Example 1:**
 
@@ -80,7 +80,7 @@ Output: False
 
 ## String05
 
-  A str of several words is given. Return the variable capitalized.
+ A string of multiple words is provided. Convert the string to be capitalized and return it.
 
 **Example 1:**
 
