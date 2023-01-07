@@ -7,4 +7,6 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s.isalpha()
+print(main("python"))
+print(main("12ghnb"))
