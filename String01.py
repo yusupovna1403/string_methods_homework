@@ -7,6 +7,5 @@ def main(s):
         str: answer
     """
     ans = s.title()
-
     return ans
 print(main("google is a search engine"))
