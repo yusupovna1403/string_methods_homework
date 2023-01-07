@@ -7,4 +7,5 @@ def main(s):
         str: answer
     """
 
-    return
+    return s.casefold()
+print(main("IPHONE IS A MOBILE"))
